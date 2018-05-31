@@ -15,6 +15,7 @@ public class Lab3 {
                     secondNumber = scanner.getNumber();
                     break;
                 }
+
             }
             System.out.println("Извините, вы ввели не число!");
         }
